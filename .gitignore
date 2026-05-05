@@ -1,0 +1,14 @@
+# Claude Code local settings (machine-specific permissions, not project code)
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
